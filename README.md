@@ -7,8 +7,6 @@ Amazon Professor of Machine Learning, and creator of GraphLab Create, a
 machine learning library for Python, which is now part of 
 <a href="https://dato.com" target="_blank">Dato's machine learning offerings</a>.
 
-## <a href="https://github.com/yorktronic/coursera-ml-classification/tree/master/w1">Week 1</a> ##
-
 Topics include (each number corresponds to a specific week of the course):
  
 1. Linear classifiers and logistic regression
