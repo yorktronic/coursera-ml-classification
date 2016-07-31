@@ -9,9 +9,12 @@ machine learning library for Python, which is now part of
 
 ## <a href="https://github.com/yorktronic/coursera-ml-classification/tree/master/w1">Week 1</a> ##
 
-Topics include:
+Topics include (each number corresponds to a specific week of the course):
  
-1. Linear Classifiers
-2. Class Probabilities
-3. Logistic Regression
-4. Practical Issues for Classification
+1. Linear classifiers and logistic regression
+2. Learning linear classifiers, overfitting, and regularization in logistic regression
+3. Decision trees
+4. Preventing overfitting in decision trees, handling missing data
+5. Boosting
+6. Precisio-recall
+7. Scaling to huge datasets and online learning
